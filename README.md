@@ -16,6 +16,10 @@ Partiremos desde a instalação do Python nas máquinas Windows e GNU/Linux. Ao 
 
 Python é uma das linguagens mais utilizadas atualmente no mercado de trabalho na área de tecnologia e dados. Além de ser um maneira fácil de aprender programar, existe alta demanda de empresas em busca de profissionais que dominam esta tecnologia. Este treinamento será focado em apresentar os conceitos básicos de programação, nosso desejo é dar o preparo necessário para que qualquer pessoa possa se aprofundar posteriormente no mundo da programação e tecnologia. Tudo isso, independente da área de interesse, seja: dados, web, games, mobile, pesquisa científica, etc.
 
+| Dia | Descrição |Link |
+| --- | --- |--- |
+| 01 | Introdução, Instalação, Primeiros comandos |[🔗](https://www.twitch.tv/videos/1862731317)|
+
 ## Sobre o Instituto Aaron Swartz
 
 Fazemos parte de um esforço global em que nossa estratégia de impacto social está diretamente alinhada com os Objetivos do Desenvolvimento Sustentável da ONU, contribuindo para o desenvolvimento sustentável reduzindo o gap gênero em TICs, fornecendo acesso à formação e tecnologias à pessoas de baixa renda e potencializando o trabalho coletivo em comunidades periféricas promovendo a cidadania ativa.
