@@ -2,12 +2,14 @@
 
 nome = "Téo Calvo"
 
+j = 1
 for i in nome:
-    print(i)
+    print("Elemento ", j, ": ", i, sep="")
+    j += 1
 
 
 # %%
-for i in range(1,11):
+for i in range(10):
     print(i)
 
 
