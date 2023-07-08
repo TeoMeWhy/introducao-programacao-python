@@ -8,6 +8,14 @@ Increva-se aqui: [eventos.institutoasw.org](https://eventos.institutoasw.org/)
 
 ## Sobre o Treinamento
 
+| Dia | Descrição |Link |
+| --- | --- |--- |
+| 01 | Introdução, Instalação, Primeiros comandos |[🔗](https://www.twitch.tv/videos/1862731317)|
+| 02 | Controle de Fluxo com IF, ELIF, ELSE, FOR, WHILE |[🔗](https://www.twitch.tv/videos/1863908333)|
+| 03 | Strings e Listas |[🔗](https://www.twitch.tv/videos/1864726729)|
+| 04 | Dicionários e Funções |[🔗](https://www.twitch.tv/videos/1865299357)|
+| 05 | Bibliotecas, Arquivos e Requests |[🔗](https://www.twitch.tv/videos/1866481554)|
+
 Será um treinamento de aproximadamente 15 horas, ao vivo, entre os dias 03.07.2023 e 07.07.2023, às 19hrs no canal [Téo Me Why](https://github.com/teomewhy) na Twitch.
 
 Sua inscrição é necessária apenas para emissão do certificado de participação, as lives serão abertas. Reforçamos que todos os dados devem ser válidos para emissão do certificado, preencha com cuidado.
@@ -16,9 +24,6 @@ Partiremos desde a instalação do Python nas máquinas Windows e GNU/Linux. Ao 
 
 Python é uma das linguagens mais utilizadas atualmente no mercado de trabalho na área de tecnologia e dados. Além de ser um maneira fácil de aprender programar, existe alta demanda de empresas em busca de profissionais que dominam esta tecnologia. Este treinamento será focado em apresentar os conceitos básicos de programação, nosso desejo é dar o preparo necessário para que qualquer pessoa possa se aprofundar posteriormente no mundo da programação e tecnologia. Tudo isso, independente da área de interesse, seja: dados, web, games, mobile, pesquisa científica, etc.
 
-| Dia | Descrição |Link |
-| --- | --- |--- |
-| 01 | Introdução, Instalação, Primeiros comandos |[🔗](https://www.twitch.tv/videos/1862731317)|
 
 ## Sobre o Instituto Aaron Swartz
 
